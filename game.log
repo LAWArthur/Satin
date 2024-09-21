@@ -1,0 +1,2060 @@
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 0(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)>), (SaTin(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [SaTin(Player 0(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [SaTin(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1), Player 1(hp=6,cost=1), <bound method SaTin.phase_500 of SaTin(Player 0(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)>), (SaTin(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1), Player 1(hp=6,cost=1), <bound method SaTin.phase_500 of SaTin(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=4,cost=0), [])
+INFO:root:(Player 1(hp=4,cost=0), [Bing(Player 1(hp=4,cost=0) -> [Player 1(hp=4,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=4,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2d'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2d'>)
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)>), (SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)>)]}
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=4,cost=1), [])
+INFO:root:(Player 1(hp=4,cost=1), [Bing(Player 1(hp=4,cost=1) -> [Player 1(hp=4,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=4,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1), Player 1(hp=4,cost=1), <bound method SaTin.phase_500 of SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)>), (SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1), Player 1(hp=4,cost=1), <bound method SaTin.phase_500 of SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=4,cost=1)], atk = 3, cost = 1)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=2), [Bing(Player 0(hp=6,cost=2) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', <re.Match object; span=(0, 1), match='t'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Peach(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 3)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [Bing(Player 2(hp=6,cost=2) -> [Player 2(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=2), [Bing(Player 0(hp=6,cost=2) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [Bing(Player 2(hp=6,cost=3) -> [Player 2(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', <re.Match object; span=(0, 1), match='t'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Peach(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 3)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 1(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=4), [NormalDefense(Player 2(hp=6,cost=4) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 3), match='2d2'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 3), match='2d2'>)
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2), <bound method SaTin.prephase_500 of SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)>), (SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2), <bound method SaTin.prephase_500 of SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)>)]}
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [Bing(Player 1(hp=6,cost=2) -> [Player 1(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:{500: [(SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2), Player 1(hp=6,cost=2), <bound method SaTin.phase_500 of SaTin(Player 0(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)>), (SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2), Player 1(hp=6,cost=2), <bound method SaTin.phase_500 of SaTin(Player 2(hp=6,cost=0) -> [Player 1(hp=6,cost=2)], atk = 6, cost = 2)>)]}
+INFO:root:0
+INFO:root:0
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=2), [Bing(Player 0(hp=6,cost=2) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', <re.Match object; span=(0, 1), match='t'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Peach(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 3)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', <re.Match object; span=(0, 1), match='z'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', <re.Match object; span=(0, 1), match='x'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=7,cost=0), [Suicide(Player 0(hp=7,cost=0) -> [Player 0(hp=7,cost=0)], atk = 1, cost = 0)])
+INFO:root:(Player 0(hp=7,cost=0), [])
+INFO:root:(Player 0(hp=7,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=7,cost=0)], atk = 7, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:{600: [(Suicide(Player 0(hp=7,cost=0) -> [Player 0(hp=7,cost=0)], atk = 1, cost = 0), Player 0(hp=7,cost=0), <bound method Suicide.phase_600 of Suicide(Player 0(hp=7,cost=0) -> [Player 0(hp=7,cost=0)], atk = 1, cost = 0)>)], 700: [(AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=7,cost=0)], atk = 7, cost = 0), Player 0(hp=7,cost=0), <bound method AntiSuicide.phase_700 of AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=7,cost=0)], atk = 7, cost = 0)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', <re.Match object; span=(0, 1), match='x'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=0,cost=0), [Bing(Player 0(hp=0,cost=0) -> [Player 0(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=0,cost=0), [])
+INFO:root:(Player 0(hp=0,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 1(hp=-6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=0,cost=0)], atk = 7, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:{700: [(AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=0,cost=0)], atk = 7, cost = 0), Player 0(hp=0,cost=0), <bound method AntiSuicide.phase_700 of AntiSuicide(Player 2(hp=6,cost=0) -> [Player 0(hp=0,cost=0)], atk = 7, cost = 0)>)]}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=0), [Bing(Player 0(hp=6,cost=0) -> [Player 0(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 0(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=1), [Bing(Player 0(hp=6,cost=1) -> [Player 0(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 0(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=2), [Bing(Player 0(hp=6,cost=2) -> [Player 0(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 0(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [Bing(Player 1(hp=6,cost=2) -> [Player 1(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [Bing(Player 2(hp=6,cost=2) -> [Player 2(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=3), [Bing(Player 0(hp=6,cost=3) -> [Player 0(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=3), [])
+INFO:root:(Player 0(hp=6,cost=3), [])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 1(hp=6,cost=3), [Bing(Player 1(hp=6,cost=3) -> [Player 1(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [Bing(Player 2(hp=6,cost=3) -> [Player 2(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=4), [Bing(Player 0(hp=6,cost=4) -> [Player 0(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=4), [])
+INFO:root:(Player 0(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [Bing(Player 1(hp=6,cost=4) -> [Player 1(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [Bing(Player 2(hp=6,cost=4) -> [Player 2(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=5), [Bing(Player 0(hp=6,cost=5) -> [Player 0(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=5), [])
+INFO:root:(Player 0(hp=6,cost=5), [])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 1(hp=6,cost=5), [Bing(Player 1(hp=6,cost=5) -> [Player 1(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [Bing(Player 2(hp=6,cost=5) -> [Player 2(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=6), [])
+INFO:root:(Player 0(hp=6,cost=6), [])
+INFO:root:(Player 0(hp=6,cost=6), [])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 1(hp=6,cost=6), [Bing(Player 1(hp=6,cost=6) -> [Player 1(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [Bing(Player 2(hp=6,cost=6) -> [Player 2(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=6), [Bing(Player 0(hp=6,cost=6) -> [Player 0(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=6), [])
+INFO:root:(Player 0(hp=6,cost=6), [])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 1(hp=6,cost=7), [Bing(Player 1(hp=6,cost=7) -> [Player 1(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [Bing(Player 2(hp=6,cost=7) -> [Player 2(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=7), [Bing(Player 0(hp=6,cost=7) -> [Player 0(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=7), [])
+INFO:root:(Player 0(hp=6,cost=7), [])
+INFO:root:(Player 1(hp=6,cost=8), [])
+INFO:root:(Player 1(hp=6,cost=8), [Bing(Player 1(hp=6,cost=8) -> [Player 1(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [Bing(Player 2(hp=6,cost=8) -> [Player 2(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=8), [Bing(Player 0(hp=6,cost=8) -> [Player 0(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=8), [])
+INFO:root:(Player 0(hp=6,cost=8), [])
+INFO:root:(Player 1(hp=6,cost=9), [])
+INFO:root:(Player 1(hp=6,cost=9), [Bing(Player 1(hp=6,cost=9) -> [Player 1(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=9), [])
+INFO:root:(Player 2(hp=6,cost=9), [])
+INFO:root:(Player 2(hp=6,cost=9), [])
+INFO:root:(Player 2(hp=6,cost=9), [Bing(Player 2(hp=6,cost=9) -> [Player 2(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', <re.Match object; span=(0, 1), match='e'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', <re.Match object; span=(0, 1), match='e'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', <re.Match object; span=(0, 1), match='e'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 0(hp=6,cost=9), [Bing(Player 0(hp=6,cost=9) -> [Player 0(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:(Player 0(hp=6,cost=9), [])
+INFO:root:(Player 0(hp=6,cost=9), [])
+INFO:root:(Player 1(hp=6,cost=1), [Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)])
+INFO:root:(Player 2(hp=6,cost=10), [NormalDefense(Player 2(hp=6,cost=10) -> [Player 0(hp=6,cost=9), Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=10), [NormalDefense(Player 2(hp=6,cost=10) -> [Player 0(hp=6,cost=9), Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=10), [])
+INFO:root:{500: [(Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 0(hp=6,cost=9), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>), (Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 0(hp=6,cost=9), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>), (Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 0(hp=6,cost=9), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>), (Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 2(hp=6,cost=10), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>), (Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 2(hp=6,cost=10), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>), (Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3), Player 2(hp=6,cost=10), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=6,cost=1) -> [Player 0(hp=6,cost=9), Player 2(hp=6,cost=10)], atk = 3, cost = 3)>)]}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:{}
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:{}
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:{}
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing(Player 3(hp=6,cost=1) -> [Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=2), [Bing(Player 1(hp=6,cost=2) -> [Player 1(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [Bing(Player 2(hp=6,cost=2) -> [Player 2(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [Bing(Player 3(hp=6,cost=2) -> [Player 3(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=3), [Bing(Player 1(hp=6,cost=3) -> [Player 1(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [Bing(Player 2(hp=6,cost=3) -> [Player 2(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [Bing(Player 3(hp=6,cost=3) -> [Player 3(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=4), [Bing(Player 1(hp=6,cost=4) -> [Player 1(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [Bing(Player 2(hp=6,cost=4) -> [Player 2(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [Bing(Player 3(hp=6,cost=4) -> [Player 3(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=5), [Bing(Player 1(hp=6,cost=5) -> [Player 1(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [Bing(Player 2(hp=6,cost=5) -> [Player 2(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [Bing(Player 3(hp=6,cost=5) -> [Player 3(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=6), [Bing(Player 1(hp=6,cost=6) -> [Player 1(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [Bing(Player 2(hp=6,cost=6) -> [Player 2(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [Bing(Player 3(hp=6,cost=6) -> [Player 3(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=7), [Bing(Player 1(hp=6,cost=7) -> [Player 1(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [Bing(Player 2(hp=6,cost=7) -> [Player 2(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [Bing(Player 3(hp=6,cost=7) -> [Player 3(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', <re.Match object; span=(0, 1), match='g'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', <re.Match object; span=(0, 1), match='g'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)])
+INFO:root:(Player 1(hp=6,cost=0), [Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)])
+INFO:root:(Player 2(hp=6,cost=8), [NormalDefense(Player 2(hp=6,cost=8) -> [Player 1(hp=6,cost=0), Player 3(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [NormalDefense(Player 2(hp=6,cost=8) -> [Player 1(hp=6,cost=0), Player 3(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=8), [NormalDefense(Player 3(hp=6,cost=8) -> [Player 1(hp=6,cost=0), Player 2(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=8), [NormalDefense(Player 3(hp=6,cost=8) -> [Player 1(hp=6,cost=0), Player 2(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=8), [])
+INFO:root:{500: [(Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Player 2(hp=6,cost=8), <bound method Lightning.phase_500 of Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)>), (Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Player 2(hp=6,cost=8), <bound method Lightning.phase_500 of Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)>), (Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Player 3(hp=6,cost=8), <bound method Lightning.phase_500 of Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)>), (Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4), Player 3(hp=6,cost=8), <bound method Lightning.phase_500 of Lightning(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=8), Player 3(hp=6,cost=8)], atk = 4, cost = 4)>)]}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing(Player 3(hp=6,cost=1) -> [Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=2), [Bing(Player 1(hp=6,cost=2) -> [Player 1(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [Bing(Player 2(hp=6,cost=2) -> [Player 2(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [Bing(Player 3(hp=6,cost=2) -> [Player 3(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=3), [Bing(Player 1(hp=6,cost=3) -> [Player 1(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [Bing(Player 2(hp=6,cost=3) -> [Player 2(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [Bing(Player 3(hp=6,cost=3) -> [Player 3(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=4), [Bing(Player 1(hp=6,cost=4) -> [Player 1(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=4), [Bing(Player 2(hp=6,cost=4) -> [Player 2(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [Bing(Player 3(hp=6,cost=4) -> [Player 3(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=5), [Bing(Player 1(hp=6,cost=5) -> [Player 1(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=6,cost=5), [Bing(Player 2(hp=6,cost=5) -> [Player 2(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [Bing(Player 3(hp=6,cost=5) -> [Player 3(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=6), [Bing(Player 1(hp=6,cost=6) -> [Player 1(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 1(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 2(hp=6,cost=6), [Bing(Player 2(hp=6,cost=6) -> [Player 2(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [Bing(Player 3(hp=6,cost=6) -> [Player 3(hp=6,cost=6)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=7), [Bing(Player 1(hp=6,cost=7) -> [Player 1(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 1(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 2(hp=6,cost=7), [Bing(Player 2(hp=6,cost=7) -> [Player 2(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [])
+INFO:root:(Player 3(hp=6,cost=7), [Bing(Player 3(hp=6,cost=7) -> [Player 3(hp=6,cost=7)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=8), [Bing(Player 1(hp=6,cost=8) -> [Player 1(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=8), [])
+INFO:root:(Player 1(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [])
+INFO:root:(Player 2(hp=6,cost=8), [Bing(Player 2(hp=6,cost=8) -> [Player 2(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=8), [])
+INFO:root:(Player 3(hp=6,cost=8), [])
+INFO:root:(Player 3(hp=6,cost=8), [])
+INFO:root:(Player 3(hp=6,cost=8), [Bing(Player 3(hp=6,cost=8) -> [Player 3(hp=6,cost=8)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=9), [Bing(Player 1(hp=6,cost=9) -> [Player 1(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=9), [])
+INFO:root:(Player 1(hp=6,cost=9), [])
+INFO:root:(Player 2(hp=6,cost=9), [])
+INFO:root:(Player 2(hp=6,cost=9), [Bing(Player 2(hp=6,cost=9) -> [Player 2(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=9), [])
+INFO:root:(Player 3(hp=6,cost=9), [])
+INFO:root:(Player 3(hp=6,cost=9), [])
+INFO:root:(Player 3(hp=6,cost=9), [Bing(Player 3(hp=6,cost=9) -> [Player 3(hp=6,cost=9)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=10), [Bing(Player 1(hp=6,cost=10) -> [Player 1(hp=6,cost=10)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=10), [])
+INFO:root:(Player 1(hp=6,cost=10), [])
+INFO:root:(Player 2(hp=6,cost=10), [])
+INFO:root:(Player 2(hp=6,cost=10), [Bing(Player 2(hp=6,cost=10) -> [Player 2(hp=6,cost=10)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=10), [])
+INFO:root:(Player 3(hp=6,cost=10), [])
+INFO:root:(Player 3(hp=6,cost=10), [])
+INFO:root:(Player 3(hp=6,cost=10), [Bing(Player 3(hp=6,cost=10) -> [Player 3(hp=6,cost=10)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=11), [Bing(Player 1(hp=6,cost=11) -> [Player 1(hp=6,cost=11)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=11), [])
+INFO:root:(Player 1(hp=6,cost=11), [])
+INFO:root:(Player 2(hp=6,cost=11), [])
+INFO:root:(Player 2(hp=6,cost=11), [Bing(Player 2(hp=6,cost=11) -> [Player 2(hp=6,cost=11)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=11), [])
+INFO:root:(Player 3(hp=6,cost=11), [])
+INFO:root:(Player 3(hp=6,cost=11), [])
+INFO:root:(Player 3(hp=6,cost=11), [Bing(Player 3(hp=6,cost=11) -> [Player 3(hp=6,cost=11)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', <re.Match object; span=(0, 3), match='2s8'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [BaSa(Player 1(hp=6,cost=4) -> [Player 2(hp=6,cost=12)], atk = 8, cost = 8)])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=6,cost=12), [NormalDefense(Player 2(hp=6,cost=12) -> [Player 1(hp=6,cost=4), Player 3(hp=6,cost=12)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=12), [])
+INFO:root:(Player 2(hp=6,cost=12), [NormalDefense(Player 2(hp=6,cost=12) -> [Player 1(hp=6,cost=4), Player 3(hp=6,cost=12)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=12), [NormalDefense(Player 3(hp=6,cost=12) -> [Player 1(hp=6,cost=4), Player 2(hp=6,cost=12)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=12), [NormalDefense(Player 3(hp=6,cost=12) -> [Player 1(hp=6,cost=4), Player 2(hp=6,cost=12)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=12), [])
+INFO:root:{1100: [(BaSa(Player 1(hp=6,cost=4) -> [Player 2(hp=6,cost=12)], atk = 8, cost = 8), Player 2(hp=6,cost=12), <bound method BaSa.phase_1100 of BaSa(Player 1(hp=6,cost=4) -> [Player 2(hp=6,cost=12)], atk = 8, cost = 8)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Bing(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing(Player 3(hp=6,cost=1) -> [Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=2), [Bing(Player 1(hp=6,cost=2) -> [Player 1(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 1(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [Bing(Player 3(hp=6,cost=2) -> [Player 3(hp=6,cost=2)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=3), [Bing(Player 1(hp=6,cost=3) -> [Player 1(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 1(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=3), [Bing(Player 3(hp=6,cost=3) -> [Player 3(hp=6,cost=3)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=4), [Bing(Player 1(hp=6,cost=4) -> [Player 1(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 1(hp=6,cost=4), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [])
+INFO:root:(Player 3(hp=6,cost=4), [Bing(Player 3(hp=6,cost=4) -> [Player 3(hp=6,cost=4)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=5), [Bing(Player 1(hp=6,cost=5) -> [Player 1(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 1(hp=6,cost=5), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [])
+INFO:root:(Player 3(hp=6,cost=5), [Bing(Player 3(hp=6,cost=5) -> [Player 3(hp=6,cost=5)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', <re.Match object; span=(0, 1), match='v'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [NuclearBomb(Player 1(hp=6,cost=0) -> [Player 3(hp=6,cost=6)], atk = 6, cost = 6)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=6), [NormalDefense(Player 3(hp=6,cost=6) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:(Player 3(hp=6,cost=6), [])
+INFO:root:{800: [(NuclearBomb(Player 1(hp=6,cost=0) -> [Player 3(hp=6,cost=6)], atk = 6, cost = 6), Player 3(hp=6,cost=6), <bound method NuclearBomb.phase_800 of NuclearBomb(Player 1(hp=6,cost=0) -> [Player 3(hp=6,cost=6)], atk = 6, cost = 6)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [Bing(Player 3(hp=0,cost=0) -> [Player 3(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', None)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Overflow(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 3, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=1), [NormalDefense(Player 3(hp=0,cost=1) -> [Player 1(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:{1000: [(Overflow(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 3, cost = 0), Player 1(hp=6,cost=1), <bound method Overflow.phase_1000 of Overflow(Player 1(hp=6,cost=1) -> [Player 1(hp=6,cost=1)], atk = 3, cost = 0)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=3,cost=0), [Bing(Player 1(hp=3,cost=0) -> [Player 1(hp=3,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [Bing(Player 3(hp=0,cost=0) -> [Player 3(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='3s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{500: [(SaTin(Player 1(hp=3,cost=0) -> [Player 3(hp=0,cost=1)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 1(hp=3,cost=0) -> [Player 3(hp=0,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 1(hp=3,cost=0), [SaTin(Player 1(hp=3,cost=0) -> [Player 3(hp=0,cost=1)], atk = 1, cost = 1)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=1), [NormalDefense(Player 3(hp=0,cost=1) -> [Player 1(hp=3,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='1d'>)
+INFO:root:{500: [(SaTin(Player 3(hp=0,cost=0) -> [Player 1(hp=3,cost=0)], atk = 3, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 3(hp=0,cost=0) -> [Player 1(hp=3,cost=0)], atk = 3, cost = 1)>)]}
+INFO:root:(Player 1(hp=3,cost=0), [Bing(Player 1(hp=3,cost=0) -> [Player 1(hp=3,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 1(hp=3,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [SaTin(Player 3(hp=0,cost=0) -> [Player 1(hp=3,cost=0)], atk = 3, cost = 1)])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:{500: [(SaTin(Player 3(hp=0,cost=0) -> [Player 1(hp=3,cost=0)], atk = 3, cost = 1), Player 1(hp=3,cost=0), <bound method SaTin.phase_500 of SaTin(Player 3(hp=0,cost=0) -> [Player 1(hp=3,cost=0)], atk = 3, cost = 1)>)]}
+INFO:root:0
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=0), [Bing(Player 1(hp=0,cost=0) -> [Player 1(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=0,cost=0), [])
+INFO:root:(Player 1(hp=0,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=0), [Bing(Player 3(hp=0,cost=0) -> [Player 3(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=1), [])
+INFO:root:(Player 1(hp=0,cost=1), [])
+INFO:root:(Player 1(hp=0,cost=1), [NormalDefense(Player 1(hp=0,cost=1) -> [Player 3(hp=0,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=1), [NormalDefense(Player 3(hp=0,cost=1) -> [Player 1(hp=0,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=1), [Bing(Player 1(hp=0,cost=1) -> [Player 1(hp=0,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=0,cost=1), [])
+INFO:root:(Player 1(hp=0,cost=1), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:(Player 3(hp=0,cost=1), [])
+INFO:root:(Player 3(hp=0,cost=1), [Bing(Player 3(hp=0,cost=1) -> [Player 3(hp=0,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 1(hp=0,cost=2), [NormalDefense(Player 1(hp=0,cost=2) -> [Player 3(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=2), [NormalDefense(Player 3(hp=0,cost=2) -> [Player 1(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 1(hp=0,cost=2), [NormalDefense(Player 1(hp=0,cost=2) -> [Player 3(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=2), [NormalDefense(Player 3(hp=0,cost=2) -> [Player 1(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=2), [Bing(Player 1(hp=0,cost=2) -> [Player 1(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 1(hp=0,cost=2), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=2), [NormalDefense(Player 3(hp=0,cost=2) -> [Player 1(hp=0,cost=2)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', <re.Match object; span=(0, 1), match='e'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=0,cost=0), [])
+INFO:root:(Player 1(hp=0,cost=0), [])
+INFO:root:(Player 1(hp=0,cost=0), [Barbarian(Player 1(hp=0,cost=0) -> [Player 3(hp=0,cost=2)], atk = 3, cost = 3)])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 2(hp=-2,cost=0), [])
+INFO:root:(Player 3(hp=0,cost=2), [NormalDefense(Player 3(hp=0,cost=2) -> [Player 1(hp=0,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:(Player 3(hp=0,cost=2), [])
+INFO:root:{500: [(Barbarian(Player 1(hp=0,cost=0) -> [Player 3(hp=0,cost=2)], atk = 3, cost = 3), Player 3(hp=0,cost=2), <bound method Barbarian.phase_500 of Barbarian(Player 1(hp=0,cost=0) -> [Player 3(hp=0,cost=2)], atk = 3, cost = 3)>)]}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=1), [NormalDefense(Player 1(hp=6,cost=1) -> [Player 2(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=1), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:{500: [(SaTin(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [SaTin(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing(Player 2(hp=6,cost=1) -> [Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=0), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [NormalDefense(Player 3(hp=6,cost=1) -> [Player 1(hp=6,cost=0), Player 2(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:{500: [(SaTin(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1), Player 2(hp=6,cost=1), <bound method SaTin.phase_500 of SaTin(Player 1(hp=6,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=5,cost=0), [])
+INFO:root:(Player 2(hp=5,cost=0), [])
+INFO:root:(Player 2(hp=5,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='1s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{500: [(SaTin(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 1, cost = 1)>)]}
+INFO:root:(Player 1(hp=6,cost=0), [SaTin(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 1, cost = 1)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=0), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=6,cost=0), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing(Player 3(hp=6,cost=1) -> [Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{500: [(SaTin(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 1, cost = 1), Player 1(hp=6,cost=0), <bound method SaTin.phase_500 of SaTin(Player 1(hp=6,cost=0) -> [Player 1(hp=6,cost=0)], atk = 1, cost = 1)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=5,cost=0), [Bing(Player 1(hp=5,cost=0) -> [Player 1(hp=5,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing(Player 2(hp=6,cost=0) -> [Player 2(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing(Player 3(hp=6,cost=0) -> [Player 3(hp=6,cost=0)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{500: [(SaTin(Player 1(hp=5,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1), <bound method SaTin.prephase_500 of SaTin(Player 1(hp=5,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1)>)]}
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 1(hp=5,cost=0), [SaTin(Player 1(hp=5,cost=0) -> [Player 2(hp=6,cost=1)], atk = 1, cost = 1)])
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=5,cost=0), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [NormalDefense(Player 2(hp=6,cost=1) -> [Player 1(hp=5,cost=0), Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing(Player 3(hp=6,cost=1) -> [Player 3(hp=6,cost=1)], atk = 0, cost = 0)])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{500: [(SaTin(sa=1,tin=0), <bound method SaTin.prephase_500 of SaTin(sa=1,tin=0)>)]}
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [SaTin(sa=1,tin=0)])
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Bing])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='1s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', <re.Match object; span=(0, 2), match='2s'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', <re.Match object; span=(0, 1), match='f'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{500: [(SaTin(sa=1,tin=0), <bound method SaTin.prephase_500 of SaTin(sa=1,tin=0)>), (SaTin(sa=1,tin=0), <bound method SaTin.prephase_500 of SaTin(sa=1,tin=0)>)]}
+INFO:root:(Player 1(hp=6,cost=0), [SaTin(sa=1,tin=0)])
+INFO:root:(Player 1(hp=6,cost=0), [SaTin(sa=1,tin=0)])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=2), [NormalDefense])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [NormalDefense])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [Bing])
+INFO:root:{500: [(SaTin(sa=1,tin=0), Player 1(hp=6,cost=0), <bound method SaTin.phase_500 of SaTin(sa=1,tin=0)>)]}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=5,cost=0), [Bing])
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 1(hp=5,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=5,cost=1), [Bing])
+INFO:root:(Player 1(hp=5,cost=1), [])
+INFO:root:(Player 1(hp=5,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Bing])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Bing])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=5,cost=2), [Bing])
+INFO:root:(Player 1(hp=5,cost=2), [])
+INFO:root:(Player 1(hp=5,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 2(hp=6,cost=2), [Bing])
+INFO:root:(Player 2(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [])
+INFO:root:(Player 3(hp=6,cost=2), [Bing])
+INFO:root:{}
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', <re.Match object; span=(0, 1), match='t'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=5,cost=3), [Bing])
+INFO:root:(Player 1(hp=5,cost=3), [])
+INFO:root:(Player 1(hp=5,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 2(hp=6,cost=3), [Bing])
+INFO:root:(Player 2(hp=6,cost=3), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Peach(1)])
+INFO:root:{}
+INFO:root:^a$
+INFO:root:^([0-9]+)s8$
+INFO:root:^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))
+INFO:root:^f$
+INFO:root:^([0-9]+)q$
+INFO:root:^([0-9]*)e
+INFO:root:^([0-9]*)g
+INFO:root:^([0-9]*)h
+INFO:root:^r
+INFO:root:^w
+INFO:root:^w
+INFO:root:^fe$
+INFO:root:^fg$
+INFO:root:^fh$
+INFO:root:^z$
+INFO:root:^x$
+INFO:root:^c$
+INFO:root:^l$
+INFO:root:^v$
+INFO:root:^juesha$
+INFO:root:^(t+)([1-9][0-9]*)?$
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:('^a$', <re.Match object; span=(0, 1), match='a'>)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=0), [Bing])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 1(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 2(hp=6,cost=0), [Bing])
+INFO:root:(Player 2(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [])
+INFO:root:(Player 3(hp=6,cost=0), [Bing])
+INFO:root:{}
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', None)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', None)
+INFO:root:('^a$', None)
+INFO:root:('^([0-9]+)s8$', None)
+INFO:root:('^([0-9]+)(((s+)([0-9]*))((d+)([0-9]*))?|((d+)([0-9]*)))', None)
+INFO:root:('^f$', None)
+INFO:root:('^([0-9]+)q$', None)
+INFO:root:('^([0-9]*)e', None)
+INFO:root:('^([0-9]*)g', None)
+INFO:root:('^([0-9]*)h', None)
+INFO:root:('^r', None)
+INFO:root:('^w', None)
+INFO:root:('^w', None)
+INFO:root:('^fe$', None)
+INFO:root:('^fg$', None)
+INFO:root:('^fh$', None)
+INFO:root:('^z$', None)
+INFO:root:('^x$', None)
+INFO:root:('^c$', None)
+INFO:root:('^l$', None)
+INFO:root:('^v$', None)
+INFO:root:('^juesha$', None)
+INFO:root:('^(t+)([1-9][0-9]*)?$', None)
+INFO:root:{}
+INFO:root:(Player 1(hp=6,cost=1), [Overflow])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 1(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 2(hp=6,cost=1), [Overflow])
+INFO:root:(Player 2(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [])
+INFO:root:(Player 3(hp=6,cost=1), [Overflow])
+INFO:root:{1000: [(Overflow, Player 1(hp=6,cost=1), <bound method Overflow.phase_1000 of Overflow>), (Overflow, Player 2(hp=6,cost=1), <bound method Overflow.phase_1000 of Overflow>), (Overflow, Player 3(hp=6,cost=1), <bound method Overflow.phase_1000 of Overflow>)]}
